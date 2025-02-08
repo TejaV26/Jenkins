@@ -43,3 +43,50 @@ ls
 ls -la
 jenkins --version
 sudo su -
+git clone https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero/tree/main
+git clone https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero.git
+git init
+git config --global user.name
+git config --global user.email
+git config user.name
+git config user.email
+git status
+git add .
+git add.
+git ad
+git add
+git add ,
+git add .
+git status
+git commit -m "first commit"
+git git checkout -b "main"
+git checkout -b "main"
+git log
+git branch -list branches
+git branch --list branches
+git remote -v
+git config --global credential.helper
+cat ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+git repo
+docker run hello-world
+docker ps -a
+docker p
+docker
+docker -l
+docker history
+isof -u docker
+lsof -u docker
+lsof -u jenkins
+ls -la
+docker ps -a
+docker --verison
+docker -v
+ls
+git fork https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero.git
+git clone https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero.git
+cd Jenkins-Zero-To-Hero
+git remote get-url origin
+git remote get-url origin | xclip -selection clipboard  # For Linux (with xclip installed)
+sudo apt install xclip
+git remote get-url origin | xclip -selection clipboard  # For Linux (with xclip installed)
